@@ -12,3 +12,4 @@ if (hourNow > 18) {
  greetings = 'Welcome' ; }
 
 document.write('<h3>' + greetings + '</h3>');
+12313434
